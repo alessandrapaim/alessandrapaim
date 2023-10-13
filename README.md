@@ -1,10 +1,6 @@
-### 👻 About Me
-<li>👋🏻 Hello! My name is Alessandra. I'm 23 years old and I currently live in the interior of Rio Grande do Sul, Brazil<br><li>🖥️ At age 12 I already liked to create pages on Blogspot, WordPress and Tumblr, so I learned to create themes through HTML/CSS, putting together a page and modifying codes became my favorite part<br><li>👺 I didn't venture into this world much before because there is a family prejudice with the excessive use of technologies and that's why I focused my studies on health<br><li>👩🏻‍💻 I'm interested in becoming a Front-end Developer, practice more HTML/CSS and starting my studies in JavaScript and React.js<br><li>🎯 I'll soon be posting some sketches of the things I'm learning, for now this is a motivational letter for me and welcome to follow ♥
+### 👻 Boo! 
+#### I am Alessandra, a iOS Developer.
+  - 🛸 I'm 23 years old and I currently live in the interior of Rio Grande do Sul, Brazil.
+  - 🔭 I’m currently studying Systems Analysis and Development at [Pontifícia Universidade Católica do Rio Grande do Sul](https://www.pucrs.br/).
+  - 🦾 Learning to fly, determined to try.
 
-### 🛸 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/harriett#5201) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p.a.i.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandra-paim) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lessinha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lsvzw) 
-
-### 💻 Want To Learn
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-![](https://github-readme-stats.vercel.app/api?username=alessandrapaim&theme=bear&hide_border=true&include_all_commits=true&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrapaim&theme=bear&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
